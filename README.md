@@ -64,7 +64,7 @@ This backend provides a comprehensive API for managing courses, students, instru
 
 1. Clone the repository
 ```bash
-git clone https://github.com/csenazmul/django-react-lms-project.git
+git clone https://github.com/csenazmul/django-react-lms-pro.git
 cd django-react-lms/backend
 ```
 
@@ -148,7 +148,7 @@ This frontend provides an intuitive interface for students and instructors to in
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/django-react-lms.git
+git clone https://github.com/csenazmul/django-react-lms-pro.git
 cd django-react-lms/frontend
 ```
 
