@@ -130,7 +130,7 @@ function Index() {
                   Join Free Now <i className="fas fa-plus"></i>
                 </a>
                 <a
-                  href="https://www.youtube.com/watch?v=Nfzi7034Kbg"
+                  href="#"
                   className="btn btn-outline-success fs-4 text-inherit ms-3"
                 >
                   Watch Demo <i className="fas fa-video"></i>
